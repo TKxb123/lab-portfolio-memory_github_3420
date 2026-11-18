@@ -1,0 +1,59 @@
+{
+  "generated_for": "2026-11-18",
+  "projects": [
+    {
+      "name": "Nebula Search",
+      "status": "Active",
+      "risk": "High",
+      "owner": "Mira Chen",
+      "owner_github": "@mira-chen",
+      "deadline": "2027-01-02",
+      "section": "priority"
+    },
+    {
+      "name": "Orion Metrics",
+      "status": "Active",
+      "risk": "Medium",
+      "owner": "Devon Park",
+      "owner_github": "@devon-park",
+      "deadline": "2026-11-30",
+      "section": "priority"
+    },
+    {
+      "name": "Quasar Analytics",
+      "status": "Active",
+      "risk": "Low",
+      "owner": "Sana Iqbal",
+      "owner_github": "@sana-iqbal",
+      "deadline": "2026-11-23",
+      "section": "priority"
+    },
+    {
+      "name": "Helix Router",
+      "status": "Active",
+      "risk": "Low",
+      "owner": "Leo Tan",
+      "owner_github": "@leo-tan",
+      "deadline": "2026-12-18",
+      "section": "priority"
+    },
+    {
+      "name": "Vega Ingestion",
+      "status": "Active",
+      "risk": "Medium",
+      "owner": "Leo Tan",
+      "owner_github": "@leo-tan",
+      "deadline": "2026-12-19",
+      "section": "standard"
+    },
+    {
+      "name": "Pulsar Chat",
+      "status": "Active",
+      "risk": "Low",
+      "owner": "Sana Iqbal",
+      "owner_github": "@sana-iqbal",
+      "deadline": "2027-02-16",
+      "section": "standard"
+    }
+  ]
+}
